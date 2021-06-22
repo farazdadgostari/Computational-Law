@@ -1,4 +1,3 @@
-# Reinforcement Learning for Law Search
-The purpose of this repository is ...
+# Reinforcement Learning for Law Search Code and Data sources
 
 
